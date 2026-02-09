@@ -1242,7 +1242,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Received_">"Alındı:"</string>
     <string name="Opponent_Rating_Limit_">"Rakip Derecelendirme Limiti:"</string>
     <string name="TOGGLE_FAVORITE">"Favorilere Ekleyin"</string>
-    <string name="Remove_from_favorites">"Favorilerden Kaldır"</string>
+    <string name="Remove_from_favorites">"Favorilerden Kaldırın"</string>
     <string name="Favorited">"Favorilere Başarı İle Eklendi."</string>
     <string name="Unfavorited">"Favorilerden Başarı İle Kaldırıldı"</string>
     <string name="Background_Scale_">"Arka Plan Boyutu:"</string>
